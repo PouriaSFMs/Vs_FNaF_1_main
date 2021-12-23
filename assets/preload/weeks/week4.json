@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"",
+			"dad",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"",
+			"dad",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"",
+			"dad",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": true,
+	"weekBackground": "limo",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Foxy the pirate fox",
+	"weekName": "Week Fx",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": false
+}

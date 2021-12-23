@@ -1,0 +1,39 @@
+{
+	"storyName": "Foxy the pirate fox",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"freddy-assbear",
+			"fed",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"beatbox",
+			"beat",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekName": "Week freeplay"
+}
